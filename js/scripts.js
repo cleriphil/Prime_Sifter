@@ -2,7 +2,7 @@ var primeSift = function(number) {
   var numberList = []
   var spliceCounter = 0
   var spliceFlag = true
-  for(var i = 2; i < number; i++) {
+  for(var i = 2; i <= number; i++) {
     numberList.push(i);
   };
 
