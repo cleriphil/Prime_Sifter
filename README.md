@@ -7,7 +7,7 @@ Uses The Sieve of Eratosthenes for logic.
 
 ###Setup Instructions:
 
-- Clone project in desktop
+- Clone project in desktop  
 - Open HTML file to launch browser
 
 MIT LICENSE
